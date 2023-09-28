@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+data/
+figs/ColoredMNIST_*
+.idea/
+.vscode/
+__pycache__/
+logs/
